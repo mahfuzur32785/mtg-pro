@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "130244148689",
+    "project_id": "mtgpro-65b96",
+    "storage_bucket": "mtgpro-65b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130244148689:android:66783e1ae68ed5d88a74f0",
+        "android_client_info": {
+          "package_name": "com.mtgprome.mtgpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130244148689-007ru4neb1abr0uego846gitc1rjbboj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mtgprome.mtgpro",
+            "certificate_hash": "b644b1ae91e281527f409e413bfd083d4e332dda"
+          }
+        },
+        {
+          "client_id": "130244148689-3qdqv7j1i59le85p2ismof5q0a5v9l3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mtgprome.mtgpro",
+            "certificate_hash": "1cf9e482d3c30a7fb052a170b40ce6f4c6ff9b28"
+          }
+        },
+        {
+          "client_id": "130244148689-gtc3os7ljvviomeedh13u1rjdjgnnnnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ZxUUGLEnF5BTPJrfycvQX5yxMnxQn_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130244148689-gtc3os7ljvviomeedh13u1rjdjgnnnnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
